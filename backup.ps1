@@ -1,4 +1,11 @@
-﻿function createHeadOfLogfile ([string]$baseDir, [string]$backupDir, [string]$logfileDestination) {
+﻿# Autor: Florin Rüedi, Rouven Hänggi, Gian Federspiel
+ # Titel: Backuplösung mit PowerShell
+ # Datum: 18.12.2021
+ # Filename: backup.ps1
+ 
+ #-----------------------------------------------------------------------------Funktionen---------------------------------------------------------------------------#
+ 
+ function createHeadOfLogfile ([string]$baseDir, [string]$backupDir, [string]$logfileDestination) {
     "Backup Log: $logfileDestination" | Out-File -FilePath $logfileDestination -Encoding UTF8
     writeLineToLogfile " " $logfileDestination
     writeLineToLogfile "Copy from: $baseDir" $logfileDest
@@ -29,5 +36,7 @@ function createBackup ([string]$baseDir, [string]$backupDir) {
         writeLineToLogfile "Copy File     $time    $fileName" $logfileDest #Schreiben der Kopierzeit und des Dateinamens in die Kopierlogdatei
     }
 }
+
+ #---------------------------------------------------------------------------Hauptprogramm------------------------------------------------------------------------------#
 
 createBackup "D:\abcabxc" "D:\abcabxc-BU"
