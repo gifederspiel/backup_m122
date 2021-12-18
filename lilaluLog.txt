@@ -1,0 +1,107 @@
+﻿Backup Log: C:\Users\vmadmin\lilaluBackup\lilaluLog.txt
+ 
+Copy from: C:\Users\vmadmin\lilalu
+To:        C:\Users\vmadmin\lilaluBackup
+ 
+Operation     Time                   DateiName
+----------------------------------------------
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 10
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 2
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 3
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 4
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 5
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 6
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 7
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 8
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 9
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 2
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 3
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 4
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 5
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Ordner 1
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Ordner 2
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Ordner 3
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Ordner 4
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Ordner 5
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Ordner 1
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Ordner 2
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Ordner 3
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Ordner 4
+Copy Folder   18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Ordner 5
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 1\1_1 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 2\1_2 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 2\1_2 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 2\1_2 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 2\1_2 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 2\1_2 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 3\1_3 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 3\1_3 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 3\1_3 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 3\1_3 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 3\1_3 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 4\1_4 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 4\1_4 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 4\1_4 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 4\1_4 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 4\1_4 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 5\1_5 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 5\1_5 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 5\1_5 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 5\1_5 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 1\1 Ordner 5\1_5 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 10\10 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 10\10 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 10\10 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 10\10 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 10\10 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 2\2 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 3\3 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 3\3 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 3\3 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 3\3 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 3\3 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 4\4 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 4\4 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 4\4 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 4\4 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 4\4 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 5\5 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 5\5 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 5\5 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 5\5 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 5\5 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 6\6 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 6\6 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 6\6 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 6\6 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 6\6 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 7\7 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 7\7 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 7\7 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 7\7 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 7\7 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 8\8 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 8\8 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 8\8 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 8\8 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 8\8 Textdokument.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 9\9 Textdokument - Kopie (2).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 9\9 Textdokument - Kopie (3).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 9\9 Textdokument - Kopie (4).txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 9\9 Textdokument - Kopie.txt
+Copy File     18.12.2021 18:25:08    .\lilalu\Ordner 9\9 Textdokument.txt
